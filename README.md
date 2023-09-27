@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my Repo!
+
+Easy to Find - Check out a list of:
+* All Front end repos available currently [here](https://github.com/search?q=topic%3Abot+org%3Awxsd-sales+fork%3Atrue&type=repositories)
+* All ML repos available currently [here](https://github.com/search?q=topic%3Amacro+org%3Awxsd-sales+fork%3Atrue&type=repositories)
+* All Mobile project repos available currently [here](https://github.com/search?q=topic%3Aembeddedapp+org%3Awxsd-sales+fork%3Atrue&type=repositories)
+
+
+*Use of the site is solely at your own risk. This site may contain links to third party content, which I do not warrant, endorse, or assume liability for.
